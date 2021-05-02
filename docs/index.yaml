@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  alpine:
+  - apiVersion: v2
+    created: "2021-05-02T13:59:40.14494-03:00"
+    description: Deploy a basic Alpine Linux pod
+    digest: 33d629a454b7a1a61f6cc87d85ac1f44c81127cd25350117bc9d0231f62616bc
+    name: alpine
+    type: application
+    urls:
+    - https://ivieira.github.io/charts/alpine-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-02T13:59:40.142992-03:00"
