@@ -17,5 +17,5 @@ $ git commit -av
 $ git push origin main
 ```
 
-From there, I can do a `helm repo add tscharts
+From there, I can do a `helm repo add mycharts
 https://ivieira.github.io/charts`
