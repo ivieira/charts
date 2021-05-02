@@ -14,7 +14,7 @@ $ mv mychart-0.1.0.tgz docs
 $ helm repo index docs --url https://ivieira.github.io/charts
 $ git add .
 $ git commit -av
-$ git push origin master
+$ git push origin main
 ```
 
 From there, I can do a `helm repo add tscharts
